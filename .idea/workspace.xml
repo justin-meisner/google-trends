@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e036449-20f7-4502-85a7-60e4a76b2dcf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Justin - Trends-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Justin - Trends-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Justin - Trends.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Justin - Trends.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
